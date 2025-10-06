@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,PackageType,Size,PriceUSD,StockCount
+P001,Wireless Mouse,Accessories,Box,Small,19.99,120
+P002,Mechanical Keyboard,Accessories,Box,Large,59.99,75
+P003,Gaming Headset,Audio,Box,Medium,89.99,50
+P004,USB-C Charger,Power,Plastic,Small,29.99,200
+P005,Laptop Stand,Office,Box,Large,34.99,90
+P006,Webcam HD,Video,Plastic,Small,49.99,60
+P007,Bluetooth Speaker,Audio,Plastic,Medium,79.99,45
+P008,Portable SSD,Storage,Box,Small,99.99,30
+P009,Smartwatch,Wearables,Box,Small,199.99,25
+P010,Noise Cancelling Earbuds,Audio,Box,Small,149.99,40
